@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="GIF" src="https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500 />
+<img align="right" alt="computer" src="https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
 
 ### I am Jerry
 - A Software Developer with a passion for creating software based solutions.
