@@ -19,6 +19,7 @@
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU" alt="git" width="30" height="30" /></code>&nbsp;
   <code><img src="https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="30" height="30" /></code>&nbsp;
   <code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png" alt="git" width="70" height="30" /></code>&nbsp;
+  <code><img src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-256.png" alt="git" width="70" height="30" /></code>&nbsp;
   <code><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe97f6ec-47bf-42e8-99e5-d673e9787fb6/d5bmuf9-70278409-11af-40b2-b790-bcee46c55840.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZmU5N2Y2ZWMtNDdiZi00MmU4LTk5ZTUtZDY3M2U5Nzg3ZmI2XC9kNWJtdWY5LTcwMjc4NDA5LTExYWYtNDBiMi1iNzkwLWJjZWU0NmM1NTg0MC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Imxtmyz2zl3nNAzfq7Yzawa4-uELDATgr5ODimBViqI" alt="git" width="30" height="30" /></code>&nbsp;
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="30" height="30" /></code>&nbsp;
   
