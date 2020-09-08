@@ -17,7 +17,7 @@
 <p align="left">
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs19oKBd0bWsq55b1d1vkpIQFC0kG9LmZasg&usqp=CAU" alt="swift" width="40" height="40"/></code>&nbsp;
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSu04LM7jTbAMUAlXWpyyg2ytYZhK-1wzm0A&usqp=CAU" alt="C" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pikpng.com%2Fpngl%2Fm%2F150-1506141_html-css-and-javascript-logo-html5-css3-js.png&imgrefurl=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FJmwwTT_html-css-and-javascript-logo-html5-css3-js%2F&tbnid=nASom2yhcbsohM&vet=12ahUKEwj-7fmt59nrAhVNcqwKHUrzBOQQMygEegUIARDVAQ..i&docid=tI4giBpWF8OYkM&w=840&h=367&q=html%20logo&ved=2ahUKEwj-7fmt59nrAhVNcqwKHUrzBOQQMygEegUIARDVAQ" alt="git" width="40" height="40" /></code>&nbsp;
+  <code><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.stack.imgur.com%2FPgcSR.png&imgrefurl=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F15333471%2Fstandard-way-to-draw-images-using-only-css3-html5-case-in-point-html-5-logo&tbnid=6VICQdynium8XM&vet=12ahUKEwj-7fmt59nrAhVNcqwKHUrzBOQQMygAegUIARDNAQ..i&docid=P8Arfn02nvz2dM&w=512&h=512&q=html%20logo&ved=2ahUKEwj-7fmt59nrAhVNcqwKHUrzBOQQMygAegUIARDNAQ" alt="git" width="40" height="40" /></code>&nbsp;
    </p>
 
 Do ⭐ my repository if you find my project interesting.  
