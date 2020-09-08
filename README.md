@@ -22,10 +22,6 @@
 
 Do ⭐ my repository if you find my project interesting.  
 
-<img src="https://komarev.com/ghpvc/?username=VatanaChhorn" alt="VatanaChhorn" />
-
-![Vatana's Github stats](https://github-readme-stats.vercel.app/api?username=vatanachhorn&show_icons=true)
-
 https://dribbble.com/shots/9344637-working-hard
 
 ⭐️ From [JerryDoran](https://github.com/JerryDoran)
