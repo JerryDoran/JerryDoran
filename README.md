@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://images.pexels.com/photos/2148217/pexels-photo-2148217.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
 
 ### I am Jerry
 - A Software Developer with a passion for creating software based solutions.
@@ -11,7 +11,6 @@
 * Developing progressive web apps (PWA's) for both desktop and mobile platforms.
 * Creating SPA's using the latest React libraries and features. 
 * Learning more about UX/UI development.
-* 🔜
  
  **Languages and Technologies:**
 <p align="left">
