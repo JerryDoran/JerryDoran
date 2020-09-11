@@ -7,7 +7,7 @@
 - Currently working on some of my cool side projects based on web technologies.
 - I'm currently looking for opportunities to help transform ideas into meaningful applications. I love to learn and contribute in any and every possible way.
 
-### 💼  Things that I'm currently working on: 
+### 💼   Things that I'm currently working on: 
 * Developing progressive web apps (PWA's) for both desktop and mobile platforms.
 * Creating SPA's using the latest React libraries and features. 
 * Learning more about UX/UI development.
