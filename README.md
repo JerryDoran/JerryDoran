@@ -2,7 +2,7 @@
 
 <img align="right" alt="computer" src="https://images.pexels.com/photos/450035/pexels-photo-450035.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" />
 
-### I am Jerry
+### I'm Jerry
 - A Software Developer with a passion for creating software based solutions.
 - Currently working on some of my cool side projects based on web technologies.
 - I'm currently looking for opportunities to help transform ideas into meaningful applications. I love to learn and contribute in any and every possible way.
