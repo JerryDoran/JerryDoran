@@ -11,6 +11,7 @@
 * Developing progressive web apps (PWA's) for both desktop and mobile platforms.
 * Creating SPA's using the latest React libraries and features. 
 * Learning more about UX/UI development.
+* Developing a backend store using Node.js and MongoDb.
  
  **Languages and Technologies:**
 <p align="left">
