@@ -15,7 +15,7 @@
  
  **Languages and Technologies:**
 <p align="left">
-  <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRs19oKBd0bWsq55b1d1vkpIQFC0kG9LmZasg&usqp=CAU" alt="swift" width="30" height="30"/></code>&nbsp;
+  <code><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" /></code>&nbsp;
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSu04LM7jTbAMUAlXWpyyg2ytYZhK-1wzm0A&usqp=CAU" alt="C" width="30" height="30" /></code>&nbsp;
   <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSnt0s4-cSHFsZEacCtBUlw-mhL3CW2mI-KJw&usqp=CAU" alt="git" width="30" height="30" /></code>&nbsp;
   <code><img src="https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="30" height="30" /></code>&nbsp;
