@@ -24,7 +24,7 @@
   <code><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></code>&nbsp;
   <code><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></code>&nbsp;
   <code><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code>&nbsp;
- <code><img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gatsbyjs/gatsbyjs.png" /></code>&nbsp;
+ <code><img height="32" width="32" src="https://camo.githubusercontent.com/c82d5dbe0efc4f71771b4c656fd96b91d6103a8d/68747470733a2f2f7777772e6761747362796a732e636f6d2f4761747362792d4d6f6e6f6772616d2e737667" /></code>&nbsp;
    </p>
    
 
