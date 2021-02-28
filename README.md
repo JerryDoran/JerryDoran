@@ -9,7 +9,8 @@
 
 ### 💼   Things that I'm currently working on: 
 * Developing progressive web apps (PWA's) for both desktop and mobile platforms.
-* Creating SPA's using the latest React libraries and features. 
+* Creating SPA's using the latest React libraries and features.
+* Creating my tech blog using Next.js and Contentful headless CMS. 
 * Learning more about UX/UI development.
 * Developing a backend store using Node.js and MongoDb.
  
